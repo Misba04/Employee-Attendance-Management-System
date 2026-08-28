@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+
+dataset/
+attendance.csv
+trainer.yml
+
+.vscode/
+.DS_Store
