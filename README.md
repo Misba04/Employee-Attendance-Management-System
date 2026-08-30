@@ -19,7 +19,7 @@ The system provides a simple graphical interface for employee registration, face
 - Duplicate attendance prevention
 - View attendance records
 - Search attendance by Employee ID
-- Attendance summary
+- Attendance summary generation
 - Simple Tkinter graphical interface
 - CSV-based attendance storage
 
@@ -47,12 +47,13 @@ Employee_Attendance_System/
 ├── view_attendance.py
 ├── attendance_summary.py
 ├── haarcascade_frontalface_default.xml
-└── requirements.txt
+├── requirements.txt
+├── main_gui.png
+└── attendance_demo.jpg.jpeg
 
-```
+## ⚙️ How to Run
 
-## Project Output
+### 1. Install the required packages
 
-### Face Recognition Attendance
-
-![Attendance System](attendance_demo.jpg.jpeg)
+```bash
+pip install -r requirements.txt
