@@ -52,3 +52,9 @@ Employee_Attendance_System/
 ├── trainer.yml
 ├── haarcascade_frontalface_default.xml
 └── requirements.txt
+
+## Project Output
+
+### Face Recognition Attendance
+
+![Attendance System](attendance_demo.jpg.jpeg)
