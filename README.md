@@ -4,7 +4,7 @@
 
 The Employee Attendance Management System is a Python-based application that uses face recognition to automatically record employee attendance.
 
-The system provides a simple graphical interface for employee registration, face-based attendance, attendance viewing, searching, and summary generation.
+The system provides a simple graphical interface for employee registration, face-based attendance, attendance viewing, searching, and attendance summary generation.
 
 ## ✨ Features
 
@@ -37,13 +37,14 @@ Employee_Attendance_System/
 ├── dataset/
 ├── main.py
 ├── register_employee.py
+├── capture_faces.py
 ├── train_model.py
 ├── recognize_face.py
 ├── attendance.py
 ├── view_attendance.py
 ├── attendance_summary.py
-├── attendance.csv
 ├── employees.txt
 ├── employee_mapping.txt
 ├── trainer.yml
-└── haarcascade_frontalface_default.xml
+├── haarcascade_frontalface_default.xml
+└── requirements.txt
