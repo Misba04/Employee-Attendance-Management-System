@@ -38,7 +38,6 @@ The system provides a simple graphical interface for employee registration, face
 ```text
 Employee_Attendance_System/
 │
-├── dataset/
 ├── main.py
 ├── register_employee.py
 ├── capture_faces.py
@@ -47,11 +46,10 @@ Employee_Attendance_System/
 ├── attendance.py
 ├── view_attendance.py
 ├── attendance_summary.py
-├── employees.txt
-├── employee_mapping.txt
-├── trainer.yml
 ├── haarcascade_frontalface_default.xml
 └── requirements.txt
+
+```
 
 ## Project Output
 
