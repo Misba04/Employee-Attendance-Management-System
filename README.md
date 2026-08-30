@@ -6,6 +6,10 @@ The Employee Attendance Management System is a Python-based application that use
 
 The system provides a simple graphical interface for employee registration, face-based attendance, attendance viewing, searching, and attendance summary generation.
 
+## 🖥️ Application Interface
+
+![Employee Attendance System](main_gui.png)
+
 ## ✨ Features
 
 - Employee registration using face images
